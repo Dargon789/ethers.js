@@ -14,7 +14,7 @@
     "@noble/secp256k1": "1.7.1",
     "@types/node": "18.15.13",
     "aes-js": "4.0.0-beta.5",
-    "tslib": "2.4.0",
+    "tslib": "2.8.1",
     "ws": "8.5.0"
   },
   "description": "A complete and compact Ethereum library, for dapps, wallets and any other tools.",
