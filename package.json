@@ -9,7 +9,7 @@
     "./lib.esm/wordlists/wordlists.js": "./lib.esm/wordlists/wordlists-browser.js"
   },
   "dependencies": {
-    "@adraffy/ens-normalize": "1.9.2",
+    "@adraffy/ens-normalize": "1.11.0",
     "@noble/hashes": "1.1.2",
     "@noble/secp256k1": "2.2.3",
     "@types/node": "18.15.13",
